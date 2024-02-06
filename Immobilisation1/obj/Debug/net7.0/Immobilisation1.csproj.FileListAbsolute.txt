@@ -1,0 +1,15 @@
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/bin/Debug/net7.0/Immobilisation1
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/bin/Debug/net7.0/Immobilisation1.deps.json
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/bin/Debug/net7.0/Immobilisation1.runtimeconfig.json
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/bin/Debug/net7.0/Immobilisation1.dll
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/bin/Debug/net7.0/Immobilisation1.pdb
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.csproj.AssemblyReference.cache
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.AssemblyInfoInputs.cache
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.AssemblyInfo.cs
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.csproj.CoreCompileInputs.cache
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.dll
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/refint/Immobilisation1.dll
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.pdb
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/Immobilisation1.genruntimeconfig.cache
+/Users/priscafehiarisoadama/RiderProjects/Immobilisation1/Immobilisation1/obj/Debug/net7.0/ref/Immobilisation1.dll
